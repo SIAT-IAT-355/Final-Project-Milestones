@@ -63,6 +63,8 @@ This set of milestones is designed to guide you through the final stages of your
 ## Milestone 4: Putting It All Together
 **Objective**: Finalize your website by ensuring cohesion, responsiveness, and design quality.
 
+**Final Deliverable**: The final deliverable for this project is a **fully functional website** that presents your visualizations and data analysis system. This website can be part of your personal website if you choose, and it should showcase the complete set of visualizations and insights you have developed.
+
 1. **Refine Website Content and Layout**:
    - Add any necessary text or explanations to enhance user understanding.
    - Ensure the website is well-organized and cohesive in both design and functionality.

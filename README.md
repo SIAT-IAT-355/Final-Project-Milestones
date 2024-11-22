@@ -54,8 +54,8 @@ This set of milestones is designed to guide you through the final stages of your
    - Continue iterating on visualizations and adjusting based on feedback or new insights.
 
 **Deadlines**:
-   - Initial Progress: November 21
-   - Continued Development: November 28
+   - Initial Progress: November 26
+   - Continued Development: November 29
    - Final Revisions: December 3
 
 ---
